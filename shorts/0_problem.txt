@@ -1,0 +1,36 @@
+An office problem
+
+The Master of Lies had a problem. Normally, her professional interactions were just so -- vague, polite pablum. Although tedious, this ensured cooperation between her colleages. Preoccupied as they all were with their work, often dangerously so, their adherance to a strict protocol ensured the fragile peace so essential to their work.
+
+Therefore, she struggled to repress her rage as she described the Master of Logic's disregard for establshed ettiqute.
+
+"Our code of conduct is very clear on protocol for recruiting new Story," she said her colleagues assembled in the conference room, "There must be a meeting to allow all interested Masters to - "
+
+A large sigh noise came from the Master of Numbers as he interrupted her, "Well, hrm, yes, but are such niceties really necessary amoung us? After all, there is so much new Story being created. Surely some discretion is needed in regards to meetings, to promote efficient use of time."
+
+All of the other assembled Masters nodded in agreement, with the notable exception of an eyeroll from the Master of Arts, who was fiddling with a bit of wire and cloth.
+
+The Master of Lies addressed the Master of Numbers, "Discretion and efficiency are indeed essential. How are new Stories supposed to thrive without communication between the different Masters? The rapid increase of complexity in new Story and necessitates our working together to --"
+
+"Come now! In my time, when we found new Story, Numbers and I would get together, work out the kinks, fill in the gaps, and Bob's your uncle", wheezed the Master of Elements, gesturing an shaky hand towards the Master of Numbers.
+
+The Master of Art spoke, her eyes still focused on the cloth and wire in her hand, "I think Lies is trying to politely say that things are more a lot more fucking complicated than when a depressingly small dance party could hand-count everything that existed. What do you think, Logic, can the three of us get together and make sure this new Story grows big and strong?"
+
+The Master of Logic stared vacantly at his fingers, and spoke quietly, "Yes, and please accept my apologies for my oversight. I should have included you sooner, and I look forward to your input on our job description for an Interim Storyteller, Propaganda Specialty."
+
+"Yes, well, wonderful", the Master of Numbers said, abruptly standing up and striding towards the conference room's exit, "That concludes the meeting. Until next week!"
+
+
+
+----
+
+Pantheon
+
+Lies: Fiction
+Numbers: int,float,etc. Too abstract?
+Elements: atoms, fights w/ life about molecules
+Life: Finds a way
+Logic: fight with Numbers. Too abstract?
+Art: Human endeavors
+
+
